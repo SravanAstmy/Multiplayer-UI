@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b64124388be92d048aa0f96c4d8144db
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Horizon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 883162e243354074a8d55ee282b28516, type: 3}
+  - {fileID: 12800000, guid: 4240b25b793f341469a82eeb9ceeb48d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
